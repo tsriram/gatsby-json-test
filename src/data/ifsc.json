@@ -1,0 +1,362 @@
+{
+  "ICICI BANK LIMITED": {
+    "TAMIL NADU": {
+      "CHENNAI": [
+        {
+          "IFSC": "ICIC0000001",
+          "BRANCH": "CHENNAI - CENOTAPH ROAD┬á",
+          "CENTRE": "CHENNAI",
+          "DISTRICT": "CHENNAI",
+          "STATE": "TAMIL NADU",
+          "ADDRESS": "1, CENOTAPH ROAD, CHENNAI.┬á",
+          "CONTACT": null,
+          "MICR": "600229002",
+          "BANK": "ICICI BANK LIMITED",
+          "RTGS": true,
+          "CITY": "CHENNAI",
+          "NEFT": true,
+          "IMPS": true
+        },
+        {
+          "IFSC": "ICIC0000009",
+          "BRANCH": "CHENNAI - NUNGAMBAKKAM┬á",
+          "CENTRE": "CHENNAI",
+          "DISTRICT": "CHENNAI",
+          "STATE": "TAMIL NADU",
+          "ADDRESS": "110, PRAKASH PRESIDIUM, UTHAMAR GANDHI SALAI, (NUNGAMBAKKAM HIGH ROAD), CHENNAI.┬á600034┬á",
+          "CONTACT": null,
+          "MICR": "600229003",
+          "BANK": "ICICI BANK LIMITED",
+          "RTGS": true,
+          "CITY": "CHENNAI",
+          "NEFT": true,
+          "IMPS": true
+        }
+      ],
+      "COIMBATORE": [
+        {
+          "IFSC": "ICIC0000016",
+          "BRANCH": "COIMBATORE - TRICHY ROAD┬á",
+          "CENTRE": "COIMBATORE",
+          "DISTRICT": "COIMBATORE",
+          "STATE": "TAMIL NADU",
+          "ADDRESS": "ICICI BANK CHERAN PLAZA, 1090, TRICHY ROAD, COIMBATORE.┬á641018┬á",
+          "CONTACT": null,
+          "MICR": "641229002",
+          "BANK": "ICICI BANK LIMITED",
+          "RTGS": true,
+          "CITY": "COIMBATORE",
+          "NEFT": true,
+          "IMPS": true
+        }
+      ]
+    },
+    "KARNATAKA": {
+      "BANGALORE URBAN": [
+        {
+          "IFSC": "ICIC0000002",
+          "BRANCH": "BANGALORE - M G ROAD┬á",
+          "CENTRE": "BANGALORE",
+          "DISTRICT": "BANGALORE",
+          "STATE": "KARNATAKA",
+          "ADDRESS": "ICICI BANK TOWERS, 1, COMMISSARIAT ROAD, GROUND FLOOR, BANGALORE┬á560025.┬á",
+          "CONTACT": null,
+          "MICR": "560229002",
+          "BANK": "ICICI BANK LIMITED",
+          "RTGS": true,
+          "CITY": "BANGALORE URBAN",
+          "NEFT": true,
+          "IMPS": true
+        }
+      ],
+      "DAKSHIN KANNAD": [
+        {
+          "IFSC": "ICIC0000014",
+          "BRANCH": "MANGALORE┬á",
+          "CENTRE": "MANGALORE",
+          "DISTRICT": "MANGALORE",
+          "STATE": "KARNATAKA",
+          "ADDRESS": "ICICI BANK GROUND FLOOR, BHARATH BUILDING, POST BOX NO. 44, PANJE MANGESH RAO ROAD, MANGALORE.┬á 575001┬á",
+          "CONTACT": null,
+          "MICR": "575229002",
+          "BANK": "ICICI BANK LIMITED",
+          "RTGS": true,
+          "CITY": "DAKSHIN KANNAD",
+          "NEFT": true,
+          "IMPS": true
+        }
+      ]
+    },
+    "GUJARAT": {
+      "VADODARA": [
+        {
+          "IFSC": "ICIC0000003",
+          "BRANCH": "VADODARA┬á",
+          "CENTRE": "VADODARA",
+          "DISTRICT": "VADODARA",
+          "STATE": "GUJARAT",
+          "ADDRESS": "ICICI BANK LANDMARK BUILDING, RACE COURSE CIRCLE, ALKAPURI, VADODARA.┬á390007┬á",
+          "CONTACT": null,
+          "MICR": "390229002",
+          "BANK": "ICICI BANK LIMITED",
+          "RTGS": true,
+          "CITY": "VADODARA",
+          "NEFT": true,
+          "IMPS": true
+        }
+      ]
+    },
+    "MAHARASHTRA": {
+      "GREATER MUMBAI": [
+        {
+          "IFSC": "ICIC0000004",
+          "BRANCH": "MUMBAI - NARIMAN POINT┬á",
+          "CENTRE": "MUMBAI",
+          "DISTRICT": "MUMBAI",
+          "STATE": "MAHARASHTRA",
+          "ADDRESS": "215, FREE PRESS HOUSE, FREE PRESS MARG, NARIMAN POINT, MUMBAI.┬á 400021┬á",
+          "CONTACT": null,
+          "MICR": "400229002",
+          "BANK": "ICICI BANK LIMITED",
+          "RTGS": true,
+          "CITY": "GREATER MUMBAI",
+          "NEFT": true,
+          "IMPS": true
+        }
+      ],
+      "PUNE": [
+        {
+          "IFSC": "ICIC0000005",
+          "BRANCH": "PUNE - BUND GARDEN┬á",
+          "CENTRE": "PUNE",
+          "DISTRICT": "PUNE",
+          "STATE": "MAHARASHTRA",
+          "ADDRESS": "ICICI BANK A-WING, SHANGRILA GARDENS, BUND GARDEN ROAD, PUNE.┬á 411001┬á",
+          "CONTACT": null,
+          "MICR": "411229002",
+          "BANK": "ICICI BANK LIMITED",
+          "RTGS": true,
+          "CITY": "PUNE",
+          "NEFT": true,
+          "IMPS": true
+        }
+      ],
+      "GREATER BOMBAY": [
+        {
+          "IFSC": "ICIC0000011",
+          "BRANCH": "MUMBAI - ANDHERI┬á",
+          "CENTRE": "MUMBAI",
+          "DISTRICT": "MUMBAI",
+          "STATE": "MAHARASHTRA",
+          "ADDRESS": "SAGAR AVENUE, GROUND FLOOR, OPP. SHOPPERS STOP, S.V. ROAD, ANDHERI (W), MUMBAI.┬á400058┬á",
+          "CONTACT": null,
+          "MICR": "400229003",
+          "BANK": "ICICI BANK LIMITED",
+          "RTGS": true,
+          "CITY": "GREATER BOMBAY",
+          "NEFT": true,
+          "IMPS": true
+        },
+        {
+          "IFSC": "ICIC0000018",
+          "BRANCH": "MUMBAI - BORIVALI┬á",
+          "CENTRE": "MUMBAI",
+          "DISTRICT": "MUMBAI",
+          "STATE": "MAHARASHTRA",
+          "ADDRESS": "ABHILASHA-1, PUNJABI LANE, BORIVALI (W), MUMBAI.┬á400092┬á",
+          "CONTACT": null,
+          "MICR": "400229005",
+          "BANK": "ICICI BANK LIMITED",
+          "RTGS": true,
+          "CITY": "GREATER BOMBAY",
+          "NEFT": true,
+          "IMPS": true
+        },
+        {
+          "IFSC": "ICIC0000020",
+          "BRANCH": "MUMBAI - POWAI┬á",
+          "CENTRE": "MUMBAI",
+          "DISTRICT": "MUMBAI",
+          "STATE": "MAHARASHTRA",
+          "ADDRESS": "GALLERIA SHOPPING MALL, HIRANANDANI GARDENS, POWAI, MUMBAI.┬á400076┬á",
+          "CONTACT": null,
+          "MICR": "400229004",
+          "BANK": "ICICI BANK LIMITED",
+          "RTGS": true,
+          "CITY": "GREATER BOMBAY",
+          "NEFT": true,
+          "IMPS": true
+        }
+      ],
+      "THANE": [
+        {
+          "IFSC": "ICIC0000019",
+          "BRANCH": "THANE - MIRA ROAD┬á",
+          "CENTRE": "THANE",
+          "DISTRICT": "THANE",
+          "STATE": "MAHARASHTRA",
+          "ADDRESS": "SURYA SHOPPING CENTRE, SECTOR 5, SHRISHTI RESIDENTIAL COMPLEX, MIRA ROAD (E), THANE.┬á401104┬á",
+          "CONTACT": null,
+          "MICR": "400229006",
+          "BANK": "ICICI BANK LIMITED",
+          "RTGS": true,
+          "CITY": "THANE",
+          "NEFT": true,
+          "IMPS": true
+        }
+      ]
+    },
+    "WEST BENGAL": {
+      "KOLKATA": [
+        {
+          "IFSC": "ICIC0000006",
+          "BRANCH": "KOLKATA - R N MUKHERJEE",
+          "CENTRE": "KOLKATA",
+          "DISTRICT": "KOLKATA",
+          "STATE": "WEST BENGAL",
+          "ADDRESS": "20, R N MUKHERJEE ROAD, KOLKATA.┬á700001┬á",
+          "CONTACT": null,
+          "MICR": "700229002",
+          "BANK": "ICICI BANK LIMITED",
+          "RTGS": true,
+          "CITY": "KOLKATA",
+          "NEFT": true,
+          "IMPS": true
+        }
+      ]
+    },
+    "DELHI": {
+      "DELHI": [
+        {
+          "IFSC": "ICIC0000007",
+          "BRANCH": "NEW DELHI - CONNAUGHT PLACE┬á",
+          "CENTRE": "DELHI",
+          "DISTRICT": "DELHI",
+          "STATE": "DELHI",
+          "ADDRESS": "ICICI Bank Ltd., 9A, Phelps Building, Connaught Place, New Delhi - 110001",
+          "CONTACT": null,
+          "MICR": "110229002",
+          "BANK": "ICICI BANK LIMITED",
+          "RTGS": true,
+          "CITY": "DELHI",
+          "NEFT": true,
+          "IMPS": true
+        }
+      ]
+    },
+    "ANDHRA PRADESH": {
+      "HYDERABAD": [
+        {
+          "IFSC": "ICIC0000008",
+          "BRANCH": "CIBD HYDERABAD",
+          "CENTRE": "HYDERABAD",
+          "DISTRICT": "HYDERABAD",
+          "STATE": "ANDHRA PRADESH",
+          "ADDRESS": "ICICI BANK TOWERS, CIBD, LEVEL 1, WAST WING, 1-11-256, STREET NO. 1, BEGUMPET, HYDERABAD.┬á500016┬á",
+          "CONTACT": null,
+          "MICR": "500229002",
+          "BANK": "ICICI BANK LIMITED",
+          "RTGS": true,
+          "CITY": "HYDERABAD",
+          "NEFT": true,
+          "IMPS": true
+        }
+      ]
+    },
+    "KERALA": {
+      "ERNAKULAM": [
+        {
+          "IFSC": "ICIC0000010",
+          "BRANCH": "ERNAKULAM (COCHIN)┬á",
+          "CENTRE": "KOCHI",
+          "DISTRICT": "ERNAKULAM",
+          "STATE": "KERALA",
+          "ADDRESS": "ERNAKULAM",
+          "CONTACT": null,
+          "MICR": "682229002",
+          "BANK": "ICICI BANK LIMITED",
+          "RTGS": true,
+          "CITY": "ERNAKULAM",
+          "NEFT": true,
+          "IMPS": true
+        }
+      ]
+    },
+    "RAJASTHAN": {
+      "JAIPUR": [
+        {
+          "IFSC": "ICIC0000012",
+          "BRANCH": "JAIPUR┬á",
+          "CENTRE": "JAIPUR",
+          "DISTRICT": "JAIPUR",
+          "STATE": "RAJASTHAN",
+          "ADDRESS": "C-99, SHREEJI TOWERS, SUBHASH MARG, NEAR AHIMSA CIRCLE, C SCHEME, JAIPUR.┬á302001┬á",
+          "CONTACT": null,
+          "MICR": "302229002",
+          "BANK": "ICICI BANK LIMITED",
+          "RTGS": true,
+          "CITY": "JAIPUR",
+          "NEFT": true,
+          "IMPS": true
+        }
+      ]
+    },
+    "CHANDIGARH": {
+      "CHANDIGARH": [
+        {
+          "IFSC": "ICIC0000013",
+          "BRANCH": "CHANDIGARH - SECTOR 9C┬á",
+          "CENTRE": "CHANDIGARH",
+          "DISTRICT": "CHANDIGARH",
+          "STATE": "CHANDIGARH",
+          "ADDRESS": "SCO 9-10-11, SECTOR 9-D. CHANDIGARH┬á160017┬á",
+          "CONTACT": null,
+          "MICR": "160229001",
+          "BANK": "ICICI BANK LIMITED",
+          "RTGS": true,
+          "CITY": "CHANDIGARH",
+          "NEFT": true,
+          "IMPS": true
+        }
+      ]
+    },
+    "GOA": {
+      "NORTH GOA": [
+        {
+          "IFSC": "ICIC0000015",
+          "BRANCH": "PANAJI┬á",
+          "CENTRE": "PANAJI",
+          "DISTRICT": "PANAJI",
+          "STATE": "GOA",
+          "ADDRESS": "65, SINDUR BUSINESS CENTRE, SWAMI VIVEKANAND ROAD,┬á┬áPANAJI┬á403001┬áGOA┬á",
+          "CONTACT": null,
+          "MICR": "403229002",
+          "BANK": "ICICI BANK LIMITED",
+          "RTGS": true,
+          "CITY": "NORTH GOA",
+          "NEFT": true,
+          "IMPS": true
+        }
+      ]
+    },
+    "PUNJAB": {
+      "LUDHIANA": [
+        {
+          "IFSC": "ICIC0000017",
+          "BRANCH": "LUDHIANA - FEROZE GANDHI MARKET CIBD┬á",
+          "CENTRE": "LUDHIANA",
+          "DISTRICT": "LUDHIANA",
+          "STATE": "PUNJAB",
+          "ADDRESS": "ICICI BANK LTD., NEHRU SIDHANT KENDER TRUST BUILDING, FEROZ GANDHI MARKET, LUDHIANA - 141001, PUNJAB",
+          "CONTACT": null,
+          "MICR": "141229002",
+          "BANK": "ICICI BANK LIMITED",
+          "RTGS": true,
+          "CITY": "LUDHIANA",
+          "NEFT": true,
+          "IMPS": true
+        }
+      ]
+    }
+  }
+}
